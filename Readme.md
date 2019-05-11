@@ -3,8 +3,7 @@
 
 ![](https://github.com/janiswalser/Slitscan/blob/master/assets/slitscan_gif.gif)
 
-The weird and beautiful effect of Slitcan. 
-(Unfortunately, the performance isn't good enough — but try it by yourselve)
+
 
 # Usage
 Run the Python script and enjoy your weird motions. 
